@@ -1,4 +1,4 @@
-#Задание 1
+# Задание 1
 
 text_1 = "Привет"
 number = 42
@@ -11,7 +11,7 @@ print(type(float_number))
 print(type(list))
 
 
-#Задание 2
+# Задание 2
 
 text_2 = "python PROGRAMMING"
 
@@ -21,7 +21,7 @@ print(text_2.capitalize())
 print(text_2.title())
 
 
-#Задание 3
+# Задание 3
 
 text_with_spaces = "  Hello World  "
 
@@ -30,7 +30,7 @@ print(text_with_spaces.lstrip())
 print(text_with_spaces.rstrip())
 
 
-#Задание 4
+# Задание 4
 
 fruits = "яблоко,банан,апельсин,груша"
 fruits_list = fruits.split(",")
@@ -40,14 +40,14 @@ print(fruits_list)
 print(fruits_text)
 
 
-#Задание 5
+# Задание 5
 
 text_5 = "Я изучаю Python. Python - это круто!"
 
 print(text_5.replace("Python", "Java"))
 
 
-#Задание 6
+# Задание 6
 
 text_6 = "Python программирование на Python"
 
@@ -56,7 +56,7 @@ print(text_6.count("Python"))
 print(text_6.find("Java"))
 
 
-#Задание 7
+# Задание 7
 
 print("Hello123".isalnum())
 print("12345".isdigit())
@@ -64,7 +64,7 @@ print("Hello".isalpha())
 print("   ".isspace())
 
 
-#ЗАДАНИЕ 8
+# Задание 8
 
 slice_text = "Python very good"
 
@@ -74,7 +74,7 @@ print(slice_text[::2])
 print(slice_text[::-1])
 
 
-# ЗАДАНИЕ 9
+# Задание 9
 
 print('Он сказал: "Привет"')
 print("Первая строка\nВторая строка")
