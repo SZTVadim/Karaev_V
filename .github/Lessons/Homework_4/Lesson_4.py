@@ -8,7 +8,7 @@ numbers = [1, 2, 3]
 print(type(text_1))
 print(type(number))
 print(type(float_number))
-print(type(list))
+print(type(numbers))
 
 
 # Задание 2
