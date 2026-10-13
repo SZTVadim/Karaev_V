@@ -21,6 +21,7 @@ print(calculate_sum(5, 3))
 
 # Задание №2
 
+
 class Book:
     def __init__(self, title, author):
         self.title = title
